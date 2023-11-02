@@ -31,9 +31,17 @@ nav{
     background-color: transparent;
 }
 
+#login:hover{
+    background-color: green;
+    color:black;
+    box-shadow: black;
+}
+
+
 .my-cart-btn{
     border-radius: 10px !important;
     font-weight: 600 !important;
+    
 }
 #categories-1{
     display: flex;
